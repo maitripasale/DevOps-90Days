@@ -4,7 +4,7 @@ This repository is used to document my journey on DevOps. I will be starting thi
 
 The reason for documenting the journey is that others can also take something from it and also hopefully enhance the resources.
 
-=> Inspired from [Michael Cade's 90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+=> Inspired from [Michael Cade's 90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) <br>
 => Referring Roadmap by [Saiyam Pathak](https://www.youtube.com/watch?v=7l_n97Mt0ko&list=PL0deK1-YrJWqCySwnanpaBEsrz2cBXkNy&index=1)
 
 ## Progress 
