@@ -1,6 +1,6 @@
 # Introduction to DevOps
 
-:pushpin: Resources: <br>
+:pushpin: **Resources**: 
 - [Civo - What is DevOps?](https://youtube.com/playlist?list=PLhc-GEHI0F7_8mbj23YWFpsgu1fl1yGL)
 - [DevOps in 5 minutes](https://www.youtube.com/watch?v=Xrgk023l4lI&t=71s)
 
