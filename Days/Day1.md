@@ -1,11 +1,8 @@
 # Introduction to DevOps
 
----
 :pushpin: Resources: <br>
 - [Civo - What is DevOps?](https://youtube.com/playlist?list=PLhc-GEHI0F7_8mbj23YWFpsgu1fl1yGL)
 - [DevOps in 5 minutes](https://www.youtube.com/watch?v=Xrgk023l4lI&t=71s)
-
----
 
 # What is DevOps?
 
@@ -37,13 +34,11 @@
 - `Security` is a part of every stage in the DevOps cycle
 
 ---
----
 
 ## Roadmap
 
 I found this [DevOps Roadmap](https://github.com/maitripasale/DevOps-90Days/files/8632104/DevOps.roadmap.2022.pdf) as a great resource and I will be documenting all the resources and learnings from this roadmap.
 
----
 
 
 
