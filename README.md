@@ -11,7 +11,7 @@ The reason for documenting the journey is that others can also take something fr
 
 ### Getting Ready
 
-- [ ] ♾️ 1 > [An Introduction to DevOps]() 
+- [X] ♾️ 1 > [An Introduction to DevOps]() 
 
 ### What is and why do we use DevOps
 
