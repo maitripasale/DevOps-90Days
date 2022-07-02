@@ -1,6 +1,6 @@
 # DevOps-90Days
 
-This repository is used to document my journey on DevOps. I will be starting this journey on the 4th May 2022 and will take `90 days`, so it happens to be from `May 4th to August 1st`   
+This repository is used to document my journey on DevOps. I will be starting this journey on the 4th May 2022 and will try to track this upto `90 days`.
 
 The reason for documenting the journey is that others can also take something from it and also hopefully enhance the resources.
 
